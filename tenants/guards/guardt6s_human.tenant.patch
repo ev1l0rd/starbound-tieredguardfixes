@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/colonyTagCriteria/tier10"
+  },
+  {
+    "op": "add",
+    "path": "/colonyTagCriteria/executive",
+    "value": 12
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/colonyTagCriteria/tier7"
+  },
+  {
+    "op": "add",
+    "path": "/colonyTagCriteria/wave",
+    "value": 12
+  }
+]

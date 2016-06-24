@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/colonyTagCriteria/tier8"
+  },
+  {
+    "op": "add",
+    "path": "/colonyTagCriteria/opulent",
+    "value": 12
+  }
+]

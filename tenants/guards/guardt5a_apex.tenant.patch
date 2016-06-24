@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/colonyTagCriteria/tier5"
+  },
+  {
+    "op": "add",
+    "path": "/colonyTagCriteria/serene",
+    "value": 12
+  }
+]

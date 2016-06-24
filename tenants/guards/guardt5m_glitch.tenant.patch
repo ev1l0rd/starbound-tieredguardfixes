@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/colonyTagCriteria/tier9"
+  },
+  {
+    "op": "add",
+    "path": "/colonyTagCriteria/geometric",
+    "value": 12
+  }
+]
